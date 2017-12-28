@@ -1,2 +1,2 @@
-# learning-ml
-Personal repository to store my artifacts produced during learning Machine Learning
+# ml-playground
+Personal repository for Machine Learning projects
