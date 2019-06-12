@@ -66,7 +66,7 @@ Jigsaw toxic comments dataset: simple exploratory data analysis.
 Spam classification using Spacy, various classifiers.
 
 #### [tasks/titanic.ipynb](https://github.com/anton-dergunov/ml-playground/blob/master/tasks/titanic.ipynb)
-Classic titanic dataset: data analysis, feature engineering, training models.
+Classic titanic dataset: data analysis, feature engineering, training models (logistic regression, SVM, decision tree, random forest, gradient boosting, including XGBoost, LightGBM, CatBoost).
 
 #### [visualization/matplotlib.ipynb](https://github.com/anton-dergunov/ml-playground/blob/master/visualization/matplotlib.ipynb)
 Examples of helpful matplotlib graphs (to be extended).
