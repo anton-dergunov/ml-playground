@@ -48,7 +48,7 @@ Learning several sentences using Elman RNN.
 #### [pytorch/lstm.ipynb](https://github.com/anton-dergunov/ml-playground/blob/master/pytorch/lstm.ipynb)
 Sentiment analysis (IMDB) using LSTM.
 
-##### [snippets/remove-presentation-toolbar.ipynb](https://github.com/anton-dergunov/ml-playground/blob/master/snippets/remove-presentation-toolbar.ipynb)
+#### [snippets/remove-presentation-toolbar.ipynb](https://github.com/anton-dergunov/ml-playground/blob/master/snippets/remove-presentation-toolbar.ipynb)
 Little snippet to remove toolbar from FastAI notebooks on Azure.
 
 #### [tasks/quora/01-LogisticRegression.ipynb](https://github.com/anton-dergunov/ml-playground/blob/master/tasks/quora/01-LogisticRegression.ipynb)
