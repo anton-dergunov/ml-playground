@@ -73,7 +73,7 @@ Sentiment analysis (IMDB) using LSTM.
 
 ## Snippets
 
-##### [snippets/remove-presentation-toolbar.ipynb](https://github.com/anton-dergunov/ml-playground/blob/master/snippets/remove-presentation-toolbar.ipynb)
+#### [snippets/remove-presentation-toolbar.ipynb](https://github.com/anton-dergunov/ml-playground/blob/master/snippets/remove-presentation-toolbar.ipynb)
 Little snippet to remove toolbar from FastAI notebooks on Azure.
 
 ## Tasks
