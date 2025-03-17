@@ -1,0 +1,6 @@
+python-dotenv
+sentence-transformers
+torch
+ipywidgets
+chromadb
+matplotlib

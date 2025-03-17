@@ -1,0 +1,7 @@
+torch
+torchvision
+matplotlib
+python-dotenv
+tabulate
+pandas
+scikit-learn
